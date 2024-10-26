@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "474155302120",
+    "project_id": "test-26ca8",
+    "storage_bucket": "test-26ca8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:474155302120:android:4f056076b03addb6eb9d5d",
+        "android_client_info": {
+          "package_name": "com.icewaternotice.test"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAriseiwGDJU_boZnRXdphxptWtEiFb3Mc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
