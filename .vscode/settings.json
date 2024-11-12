@@ -51,5 +51,5 @@
         "temp/": true,
         "Temp/": true
     },
-    "dotnet.defaultSolution": "Firebase.sln"
+    "dotnet.defaultSolution": "VTC_MET4337_Lab04_Firebase.sln"
 }
